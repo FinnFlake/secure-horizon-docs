@@ -1,3 +1,3 @@
-remote_theme: pmarsceill/just-the-docs
+theme: jekyll-theme-cayman
 title: Secure Horizon Protection Services
 description: Internal documentation and organizational structure
