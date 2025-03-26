@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styling for Secure Horizon
+.site-title {
+  color: #0A3161;
+}
+
+a {
+  color: #0A3161;
+}
+
+a:hover {
+  color: #B22234;
+}
+
+.btn-primary {
+  background-color: #0A3161;
+}
+
+.btn-primary:hover {
+  background-color: #2A4D7F;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+th {
+  background-color: #0A3161;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
