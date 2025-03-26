@@ -8,7 +8,7 @@ This site contains the complete organizational structure, operational protocols,
 
 ## Quick Links
 
-- [Organizational Structure](structure.html)
-- [Discord Server Setup](discord.html)
-- [Operational Protocols](protocols.html)
-- [Visual Identity](branding.html)
+- [Organizational Structure](structure.md)
+- [Discord Server Setup](discord.md)
+- [Operational Protocols](protocols.md)
+- [Visual Identity](branding.md)
